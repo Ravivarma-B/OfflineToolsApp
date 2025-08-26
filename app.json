@@ -1,0 +1,12 @@
+{
+  "name": "OfflineToolsApp",
+  "displayName": "OfflineToolsApp",
+  "expo": {
+    "name": "OfflineToolsApp",
+    "slug": "OfflineToolsApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
