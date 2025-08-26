@@ -7,6 +7,15 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "react-native-nfc-manager"
+    ],
+    "android": {
+      "permissions": [
+        "android.permission.NFC"
+      ],
+      "package": "com.fileshare.www"
+    }
   }
 }
