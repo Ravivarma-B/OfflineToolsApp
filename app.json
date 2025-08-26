@@ -16,6 +16,8 @@
         "android.permission.NFC"
       ],
       "package": "com.fileshare.www"
-    }
+    },
+    "sdkVersion": "50.0.0",
+    "platforms": ["ios", "android", "web"]
   }
 }
